@@ -1,0 +1,5 @@
+Petrov 23543.12
+Ivanov 13749.32
+Sidorov 14765.22
+Kotov 12680.01
+Michkin 13049.21
